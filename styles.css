@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('240_F_271109100_LBWQFgwy1MQ4Y92fAZU4mI3VF6aQ7ItI.jpg'); /* Replace with your actual image filename */
+    background-size: cover;
+    color: #ffffff; /* Default text color */
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+nav {
+    background-color: #003366; /* Navy blue */
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Dark background for sections */
+}
+
+section h2 {
+    color: #FFD700; /* Gold color for section titles */
+}
+
+section h3 {
+    color: #87CEFA; /* Light sky blue for sub-titles */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #003366;
+}
+
+a {
+    color: #FFD700; /* Gold color for links */
+    text-decoration: none; /* No underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
